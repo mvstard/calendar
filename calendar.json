@@ -1,11 +1,11 @@
 {
-   "id":"ext_hist",
-   "title":"Extnsion History",
-   "description":"",
+   "id":"version_hist_test",
+   "title":"Verson History",
+   "description":"we'll see",
    "icon_url":"https://tealium-tools.s3.amazonaws.com/tools/logo.png",
    "scripts":{
       "ext_hist":{
-         "button_label":"Get cHistory",
+         "button_label":"Get Changes",
          "js":"https://solutions.tealium.net/hosted/tealiumTools/ext_history/page_code.js",
          "remote_js":true,
          "template":"",
@@ -13,16 +13,16 @@
          "input":{
             "exten_uid":{
                "type":"text",
-               "placeholder":"TESTING UID",
-               "label":"TESTING UID",
+               "placeholder":"Version Timestamp",
+               "label":"Timestamp",
                "required":true
             }
          }
       "input2":{
             "exten_uid":{
                "type":"text",
-               "placeholder":"TESTING UID",
-               "label":"TESTING UID",
+               "placeholder":"Later Version Timestamp",
+               "label":"Timestamp",
                "required":true
             }
          }
