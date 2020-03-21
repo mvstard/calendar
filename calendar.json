@@ -4,18 +4,18 @@
 "description": "",
 "icon_url": "https://tealium-tools.s3.amazonaws.com/tools/logo.png",
 "scripts": {
-'ext_hist': {
-'button_label': "Get cHistory",
-'js': "https://solutions.tealium.net/hosted/tealiumTools/ext_history/page_code.js",
-'remote_js': true,
-'template': "",
-'remote_template': true,
-'input': {
-'exten_uid': {
-'type': "text",
-'placeholder': "TESTING UID",
-'label': "TESTING UID",
-'required': true
+"ext_hist": {
+"button_label": "Get cHistory",
+"js": "https://solutions.tealium.net/hosted/tealiumTools/ext_history/page_code.js",
+"remote_js": true,
+"template": "",
+"remote_template": true,
+"input": {
+"exten_uid": {
+"type": "text",
+"placeholder": "TESTING UID",
+"label": "TESTING UID",
+"required": true
 }
 }
 }
