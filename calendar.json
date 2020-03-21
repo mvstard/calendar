@@ -16,10 +16,8 @@
                "placeholder":"Version Timestamp",
                "label":"Timestamp",
                "required":true
-            }
-         },
-      "input2":{
-            "exten_uid":{
+            }, 
+            "other_uid":{
                "type":"text",
                "placeholder":"Later Version Timestamp",
                "label":"Timestamp",
