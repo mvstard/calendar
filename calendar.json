@@ -3,7 +3,7 @@
 "title": "Extension History",
 "description": "",
 "icon_url": "https://tealium-tools.s3.amazonaws.com/tools/logo.png",
-"scripts': {
+"scripts": {
 'ext_hist': {
 'button_label': "Get cHistory",
 'js': "https://solutions.tealium.net/hosted/tealiumTools/ext_history/page_code.js",
@@ -13,7 +13,7 @@
 'input': {
 'exten_uid': {
 'type': "text",
-'placeholder: "TESTING UID",
+'placeholder': "TESTING UID",
 'label': "TESTING UID",
 'required': true
 }
