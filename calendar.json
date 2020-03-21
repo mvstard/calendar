@@ -18,6 +18,14 @@
                "required":true
             }
          }
+      "input2":{
+            "exten_uid":{
+               "type":"text",
+               "placeholder":"TESTING UID",
+               "label":"TESTING UID",
+               "required":true
+            }
+         }
       }
    }
 }
