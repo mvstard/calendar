@@ -17,7 +17,7 @@
                "label":"Timestamp",
                "required":true
             }
-         }
+         },
       "input2":{
             "exten_uid":{
                "type":"text",
