@@ -8,7 +8,7 @@
          "button_label":"Get Changes",
          "js":"https://solutions.tealium.net/hosted/tealiumTools/ext_history/page_code.js",
          "remote_js":true,
-         "template":"",
+         "template":"https://cdn.jsdelivr.net/gh/mvstard/calendar@latest/calendar.html",
          "remote_template":true,
          "input":{
             "exten_uid":{
