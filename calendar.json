@@ -6,9 +6,9 @@
    "scripts":{
       "ext_hist":{
          "button_label":"Get Changes",
-         "js":"https://solutions.tealium.net/hosted/tealiumTools/ext_history/page_code.js",
+         "js":"https://cdn.jsdelivr.net/gh/mvstard/calendar@1f7fc7e7e95f4d2fed2bd84e0cfdbb11f73214d0/calendar.js",
          "remote_js":true,
-         "template":"https://cdn.jsdelivr.net/gh/mvstard/calendar@latest/calendar.html",
+         "template":"https://cdn.jsdelivr.net/gh/mvstard/calendar@1f7fc7e7e95f4d2fed2bd84e0cfdbb11f73214d0/calendar.html",
          "remote_template":true,
          "input":{
             "vers1_uid":{
