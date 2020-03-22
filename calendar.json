@@ -11,13 +11,13 @@
          "template":"https://cdn.jsdelivr.net/gh/mvstard/calendar@latest/calendar.html",
          "remote_template":true,
          "input":{
-            "exten_uid":{
+            "vers1_uid":{
                "type":"text",
                "placeholder":"Version Timestamp",
                "label":"Timestamp",
                "required":true
             }, 
-            "other_uid":{
+            "vers1_uid":{
                "type":"text",
                "placeholder":"Later Version Timestamp",
                "label":"Timestamp",
