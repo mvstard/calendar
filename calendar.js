@@ -32,7 +32,7 @@ tealiumTools.getHistory = function(date1,date2){
     return historyBlob;
 }
 
-if (tealiumTools.input && tealiumTools.input.vers1_uid && tealiumTools.input.vers1_uid) {
+if (tealiumTools.input && tealiumTools.input.vers1_uid && tealiumTools.input.vers2_uid) {
 
   tealiumTools.getHistory({html: encodeURI(tealiumTools.createExtHist(tealiumTools.input.exten_uid)) });
 
