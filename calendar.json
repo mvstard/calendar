@@ -17,7 +17,7 @@
                "label":"Timestamp",
                "required":true
             }, 
-            "vers1_uid":{
+            "vers2_uid":{
                "type":"text",
                "placeholder":"Later Version Timestamp",
                "label":"Timestamp",
